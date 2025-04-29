@@ -1,7 +1,6 @@
 "use client"
 
 import type React from "react"
-
 import { useDrag } from "react-dnd"
 import type { ElementType } from "@/lib/types"
 import { Square, Type, ImageIcon } from "lucide-react"
