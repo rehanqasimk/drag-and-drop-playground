@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="240" fill="#4F46E5" opacity="0.1" />
+
+    <!-- Outer design element - decorative frame -->
+    <rect x="72" y="72" width="368" height="368" rx="48" stroke="#4F46E5" stroke-width="12"
+        stroke-dasharray="24 12" />
+
+    <!-- Design elements representing draggable items -->
+    <!-- Square shape element -->
+    <rect x="134" y="190" width="100" height="100" rx="8" fill="#4F46E5" opacity="0.7" />
+
+    <!-- Text element representation -->
+    <rect x="270" y="190" width="120" height="30" rx="6" fill="#4F46E5" opacity="0.5" />
+    <rect x="270" y="230" width="80" height="8" rx="4" fill="#4F46E5" opacity="0.4" />
+    <rect x="270" y="248" width="100" height="8" rx="4" fill="#4F46E5" opacity="0.4" />
+
+    <!-- Image element representation -->
+    <rect x="134" y="320" width="120" height="80" rx="8" fill="#4F46E5" opacity="0.3" />
+    <circle cx="169" cy="344" r="12" fill="#4F46E5" opacity="0.7" />
+    <path d="M134 380L174 350L194 364L230 340L254 400H142C137.582 400 134 396.418 134 392V380Z"
+        fill="#4F46E5" opacity="0.5" />
+
+    <!-- Cursor/handle element to show drag interaction -->
+    <circle cx="308" cy="360" r="32" fill="#4F46E5" opacity="0.2" stroke="#4F46E5" stroke-width="3" />
+    <path d="M308 336V384" stroke="#4F46E5" stroke-width="4" stroke-linecap="round" />
+    <path d="M284 360H332" stroke="#4F46E5" stroke-width="4" stroke-linecap="round" />
+
+    <!-- Grid background pattern -->
+    <path d="M72 122H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M72 172H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M72 222H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M72 272H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M72 322H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M72 372H440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+
+    <path d="M122 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M172 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M222 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M272 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M322 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+    <path d="M372 72V440" stroke="#4F46E5" stroke-width="1" opacity="0.2" stroke-dasharray="4 4" />
+</svg>
